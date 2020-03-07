@@ -1,3 +1,4 @@
 title: Hello world
 description: Hello world page
 theme: jekyll-theme-hacker
+show_downloads: true
